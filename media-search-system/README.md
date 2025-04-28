@@ -27,8 +27,8 @@ This project was developed as part of an Object-Oriented Programming course in m
 ### 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/media-search.git
-    cd media-search
+    git clone https://github.com/alex-escobar-h/masters-program.git
+    cd masters-program/media-search-system
     ```
 
 ### 2. Build the project:
